@@ -18,5 +18,6 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 - Responsiveness: https://internetingishard.com/html-and-css/responsive-design/ & https://github.com/MOhammedRiaad/restaurant/blob/master/css/styles.css
 - Riad’s study jam: https://www.youtube.com/watch?v=TxXwlOAXUko
 - How to install a service worker: https://stackoverflow.com/questions/43905334/how-do-i-create-a-simple-service-worker-to-add-new-items-to-cache-offline
-- Service worker: https://github.com/evkw/Udacity.mws-restaurant-stage-1/blob/master/sw.js
+- Service worker: https://github.com/evkw/Udacity.mws-restaurant-stage-1/blob/master/sw.js & https://developers.google.com/web/fundamentals/primers/service-workers/ & https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 - Button accessibility and focus: https://github.com/IyiKuyoro/Restaurant-Review-App/blob/master/js/main.js
+- CSS styling a list like a grid: https://stackoverflow.com/questions/14885026/how-to-lay-out-list-items-like-a-grid-with-css-and-html#21678797
