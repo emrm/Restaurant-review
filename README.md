@@ -1,5 +1,5 @@
 ### Front End Developper NanoDegree ###
----
+                                            ---
 ### Project Overview - Restaurant Reviews
 The static design was converted to a responsive and accessible page.
 A service worker was added to improve the offline experience.
